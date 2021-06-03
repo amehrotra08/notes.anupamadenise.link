@@ -1,0 +1,2 @@
+-   Can create backlinks - who knew? No need to use [[🧩Roam Research]] anymore because that was the primary use case for it. backlinks!
+-   enables transclusion - reuse an entire block (footer, for example), so that edits in place will automatically pass to other blocks (liek formatting?) TEMPLATES!
