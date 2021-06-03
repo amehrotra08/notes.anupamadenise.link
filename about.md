@@ -4,7 +4,7 @@ title: About This Page
 permalink: /about/
 content-type: eg
 ---
-Welcome to my attempt at a Digial Garden. Like quite a few members of the [[Deep Productivity]] community, I learned a lot during the Covid-19 pandemic in 2020. One of them was about [[🧩Zettlekasten Method]]. I started working on building my [[Second Brain]] in [[🧩Notion]] and I found that software so clunky, fairly confusing and unclear to use. I'd just left AirTable after trying their free premium trial for a content calendar, and Notion less good at what AirTable did. In fact, I'd describe Notion as the true jack-of-all trades - poor for most things and probably mediocre at the rest. But it tried to do too many things and I didn't particularly like any of them. 🤷🏾‍♀️. 
+Welcome to my attempt at a Digial Garden. Like quite a few members of the [[Deep Productivity]] community, I learned a lot during the Covid-19 pandemic in 2020. One of them was about [[🧩Zettlekasten Method]]. See [[🧩Zettel]] I started working on building my [[Second Brain]] in [[🧩Notion]] and I found that software so clunky, fairly confusing and unclear to use. I'd just left AirTable after trying their free premium trial for a content calendar, and Notion less good at what AirTable did. In fact, I'd describe Notion as the true jack-of-all trades - poor for most things and pro˝bably mediocre at the rest. But it tried to do too many things and I didn't particularly like any of them. 🤷🏾‍♀️. 
 
 I digress. Next!
 
