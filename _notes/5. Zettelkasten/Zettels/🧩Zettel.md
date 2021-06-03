@@ -1,3 +1,9 @@
+---
+title: 🧩 Zettel
+tags: zettel 
+season: summer
+---
+
 -   One Zettle = One thought
     
 -   one base unit of thought = zettel
